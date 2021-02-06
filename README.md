@@ -1,4 +1,4 @@
-
+<body>
     <table>
         <caption>LENGUAJES DE PROGRAMACIÓN</caption>
         <tr>
@@ -57,3 +57,4 @@
             <td>Básico</td>
         </tr>
     </table>
+</body>
