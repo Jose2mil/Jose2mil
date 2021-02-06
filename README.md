@@ -1,16 +1,39 @@
-### Hi there 👋
+--LENGUAJES PROGRAMACIÓN--
 
-<!--
-**Jose2mil/Jose2mil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+C# [ +600 h. ] - [Nivel Alto]
+HTML y CSS [ +120 h. ]- [Nivel Medio]
+JavaScript [ +80 h. ] - [Nivel Medio]
+PHP [ +60 h. ] - [Nivel Básico]
+Java [ +700 h. ] - [Nivel Alto]
+C++ [ +30 h. ] - [Nivel Básico]
+C#/Unity [ +130 h. ] - [Nivel Medio]
+Kotlin/Android [ +150 h. ] - [Nivel Medio]
+Navision [ +30h ] - [Nivel Básico]
+NodeJS [ +20h ] - [Nivel Básico]
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+--BASE DE DATOS--
+
+SQL y PL/SQL [ +300 h. ]- [Nivel Alto]
+MongoDB [ +30 h. ] - [Nivel Medio]
+
+
+--HERRAMIENTAS--
+
+Git [Nivel Medio]
+Hibernate + JPA [Nivel Medio]
+Spring [Nivel Medio]
+Windows Forms [Nivel Alto]
+WPF [Nivel Alto]
+JavaFX [Nivel Medio]
+
+
+--IDEs--
+
+Visual Studio [Nivel Alto]
+Visual Studio Code [Nivel Alto]
+Android Studio [Nivel Alto]
+IntelliJ IDEA [Nivel Alto]
+Eclipse [Nivel Alto]
+pgAdmin [Nivel Medio]
+Postman [Nivel Básico]
