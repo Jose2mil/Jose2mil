@@ -1,15 +1,17 @@
 --LENGUAJES PROGRAMACIÓN--
 
-C# [ +600 h. ] - [Nivel Alto]
-HTML y CSS [ +120 h. ]- [Nivel Medio]
-JavaScript [ +80 h. ] - [Nivel Medio]
-PHP [ +60 h. ] - [Nivel Básico]
-Java [ +700 h. ] - [Nivel Alto]
-C++ [ +30 h. ] - [Nivel Básico]
-C#/Unity [ +130 h. ] - [Nivel Medio]
-Kotlin/Android [ +150 h. ] - [Nivel Medio]
-Navision [ +30h ] - [Nivel Básico]
-NodeJS [ +20h ] - [Nivel Básico]
+<ul>
+  <li> C# [ +600 h. ] - [Nivel Alto] </li>
+  <li> HTML y CSS [ +120 h. ]- [Nivel Medio] </li>
+  <li> JavaScript [ +80 h. ] - [Nivel Medio] </li>
+  <li> PHP [ +60 h. ] - [Nivel Básico] </li>
+  <li> Java [ +700 h. ] - [Nivel Alto] </li>
+  <li> C++ [ +30 h. ] - [Nivel Básico] </li>
+  <li> C#/Unity [ +130 h. ] - [Nivel Medio] </li>
+  <li> Kotlin/Android [ +150 h. ] - [Nivel Medio] </li>
+  <li> Navision [ +30h ] - [Nivel Básico] </li>
+  <li> NodeJS [ +20h ] - [Nivel Básico] </li>
+</ul>
 
 
 --BASE DE DATOS--
