@@ -1,4 +1,4 @@
---LENGUAJES PROGRAMACIÓN--
+<h2>LENGUAJES PROGRAMACIÓN</h2>
 
 <ul>
   <li> C# [ +600 h. ] - [Nivel Alto] </li>
@@ -14,28 +14,34 @@
 </ul>
 
 
---BASE DE DATOS--
+<h2>BASE DE DATOS</h2>
 
-SQL y PL/SQL [ +300 h. ]- [Nivel Alto]
-MongoDB [ +30 h. ] - [Nivel Medio]
-
-
---HERRAMIENTAS--
-
-Git [Nivel Medio]
-Hibernate + JPA [Nivel Medio]
-Spring [Nivel Medio]
-Windows Forms [Nivel Alto]
-WPF [Nivel Alto]
-JavaFX [Nivel Medio]
+<ul>
+  <li> SQL y PL/SQL [ +300 h. ]- [Nivel Alto] </li>
+  <li> MongoDB [ +30 h. ] - [Nivel Medio] </li>
+</ul>
 
 
---IDEs--
+<h2>HERRAMIENTAS</h2>
 
-Visual Studio [Nivel Alto]
-Visual Studio Code [Nivel Alto]
-Android Studio [Nivel Alto]
-IntelliJ IDEA [Nivel Alto]
-Eclipse [Nivel Alto]
-pgAdmin [Nivel Medio]
-Postman [Nivel Básico]
+<ul>
+  <li> Git [Nivel Medio] </li>
+  <li> Hibernate + JPA [Nivel Medio] </li>
+  <li> Spring [Nivel Medio] </li>
+  <li> Windows Forms [Nivel Alto] </li>
+  <li> WPF [Nivel Alto] </li>
+  <li> JavaFX [Nivel Medio] </li>
+</ul>
+
+
+<h2>IDEs</h2>
+
+<ul>
+  <li> Visual Studio [Nivel Alto] </li>
+  <li> Visual Studio Code [Nivel Alto] </li>
+  <li> Android Studio [Nivel Alto] </li>
+  <li> IntelliJ IDEA [Nivel Alto] </li>
+  <li> Eclipse [Nivel Alto] </li>
+  <li> pgAdmin [Nivel Medio] </li>
+  <li> Postman [Nivel Básico] </li>
+</ul>
