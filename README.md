@@ -1,5 +1,5 @@
 <body>
-    <table>
+    <table style="display: inline; margin: 5%;">
         <caption>LENGUAJES DE PROGRAMACIÓN</caption>
         <tr>
             <th>LENGUAJE</th>
