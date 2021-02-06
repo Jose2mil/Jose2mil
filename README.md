@@ -56,5 +56,10 @@
             <td>+20</td>
             <td>Básico</td>
         </tr>
+        <tr>
+            <td>SQL y PL/SQL</td>
+            <td>+300</td>
+            <td>Alto</td>
+        </tr>
     </table>
 </body>
